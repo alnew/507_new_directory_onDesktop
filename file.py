@@ -9,3 +9,5 @@
 
     # Creating a new Git repository
     #use https to create a new repository
+    # "adding more notes to commit"
+    print("now on Github")
